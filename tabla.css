@@ -1,0 +1,16 @@
+/* html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+} */
+#boton-invisible{
+    display: none;
+}
+body{
+    padding: 100px;
+}
+h1{
+    text-align: center;
+}
+
+
